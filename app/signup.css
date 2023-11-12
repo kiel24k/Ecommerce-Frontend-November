@@ -1,0 +1,46 @@
+.signup {
+    background-image:linear-gradient(to bottom, #251d1b,rgb(179, 34, 179));
+
+}
+.sheesh{
+    background-image: url('app/picture/hall.png');
+    
+}
+
+
+.base {
+
+    background-color: white;
+    height: 331px;
+    border-radius:10px;
+    width:500px;
+    margin:auto;
+    
+}
+.title h4{
+    margin-left:100px;
+    margin-bottom:20px;
+}
+
+.username .username{
+    width:20rem;
+    margin:auto;
+    margin-bottom:20px;
+}
+.password .password{
+    width:20rem;
+    margin:auto;
+    margin-bottom:20px;
+}
+.submit .submit{
+    background-color: orange;
+    border:none;
+    border-radius:10px;
+    width:20rem;
+}
+.display{
+    padding-right:0px;
+}
+.form{
+    padding-left:0px;   
+}

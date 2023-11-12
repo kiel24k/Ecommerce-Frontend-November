@@ -1,0 +1,24 @@
+
+nav{
+  background-image:linear-gradient(to bottom, #251d1b,rgb(179, 34, 179));
+  position:fixed;
+  width:100%;
+}
+.nav-2{
+    font-size:12px;
+}
+.search{
+    max-width:60rem;
+ margin:auto;
+}
+footer{
+    background-color: #fbfbfb;
+    font-size:12px;
+}
+.description{
+    width:150px;
+}
+.signup{
+    background-color: red;
+    color:red;
+}
