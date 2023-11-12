@@ -1,46 +1,54 @@
-.signup {
-    background-image:linear-gradient(to bottom, #251d1b,rgb(179, 34, 179));
-
-}
-.sheesh{
-    background-image: url('app/picture/hall.png');
-    
-}
-
-
-.base {
-
+.form {
     background-color: white;
-    height: 331px;
-    border-radius:10px;
-    width:500px;
-    margin:auto;
-    
-}
-.title h4{
-    margin-left:100px;
-    margin-bottom:20px;
+    width: 500px;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 25px;
+
 }
 
-.username .username{
-    width:20rem;
-    margin:auto;
+.form p {
+    margin-right: 300px;
+    font-weight: 800;
+    font-size:x-large
+}
+
+.form input {
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 1px;
+    margin: auto;
+}
+
+.email {
+    margin-bottom: 20px;
+}
+
+.password {
+    margin-bottom: 20px;
+}
+
+.submit {
+    margin-bottom: 20px;
+}
+.gameid{
     margin-bottom:20px;
 }
-.password .password{
-    width:20rem;
-    margin:auto;
-    margin-bottom:20px;
+.submit button{
+    background-color: rgb(179, 34, 179);
+    color:White;
+    width:400px;
 }
-.submit .submit{
-    background-color: orange;
-    border:none;
-    border-radius:10px;
-    width:20rem;
+.submit button:hover{
+    color:White;
+    opacity:50%;
 }
-.display{
-    padding-right:0px;
-}
-.form{
-    padding-left:0px;   
+
+
+.form-container {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-image: linear-gradient(to bottom, #251d1b, rgb(179, 34, 179));
 }

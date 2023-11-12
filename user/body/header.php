@@ -3,8 +3,8 @@
 <nav>
     <div class="all">
     <div class="container-fluid-xl navbar-expand">
-    <div class="row">
-      <div class="col-xl text-white navbar-top ">
+    <div class="row ">
+      <div class="col-xl navbar-top ">
       <ul class="navbar-nav justify-content-center ">
             <li class="nav-item p-1">
                 <a href="" class="nav-link">Seller</a>

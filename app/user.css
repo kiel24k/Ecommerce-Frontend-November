@@ -4,6 +4,9 @@ nav{
   position:fixed;
   width:100%;
 }
+nav .nav-link{
+    color:white;
+}
 .nav-2{
     font-size:12px;
 }
@@ -22,3 +25,4 @@ footer{
     background-color: red;
     color:red;
 }
+
