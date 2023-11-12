@@ -9,7 +9,7 @@
 }
 
 .form p {
-    margin-right: 300px;
+    margin-right: 320px;
     font-weight: 800;
     font-size:x-large
 }
@@ -29,16 +29,11 @@
 .password {
     margin-bottom: 20px;
 }
-.confirmpassword{
-    margin-bottom:20px;
-}
 
 .submit {
     margin-bottom: 20px;
 }
-.gameid{
-    margin-bottom:20px;
-}
+
 .submit button{
     background-color: rgb(179, 34, 179);
     color:White;
@@ -54,4 +49,8 @@
     padding-top: 200px;
     padding-bottom: 200px;
     background-image: linear-gradient(to bottom, #251d1b, rgb(179, 34, 179));
+}
+.signuplink span{
+    color:Red;
+   
 }

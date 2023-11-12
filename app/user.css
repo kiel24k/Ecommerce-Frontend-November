@@ -15,8 +15,10 @@ nav .nav-link{
  margin:auto;
 }
 footer{
-    background-color: #fbfbfb;
+    background-color:rgb(250, 243, 243);
     font-size:12px;
+    border-top:solid 3px violet;
+    margin-top:50px;
 }
 .description{
     width:150px;
